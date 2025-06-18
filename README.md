@@ -10,7 +10,7 @@ A minimal, fast, headless screenshot tool using Chromium — built for bug bount
 - 🐧 Works on Kali, ParrotOS, and most Debian-based distros
 
 ## Requirements
-- `chromium` (or `google-chrome`)
+- `chromium` (or `google-chrome`), Install: ```sudo apt install chromium```
 - Python 3.6+
 
 ## 📦 Usage Examples
