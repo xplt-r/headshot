@@ -16,10 +16,10 @@ A minimal, fast, headless screenshot tool using Chromium — built for bug bount
 ## 📦 Usage Examples
 Single URL:
 ```
-python3 chromshot.py -u https://example.com
+python3 headshot.py -u https://example.com
 ```
 List of URLs:
 ```
-python3 chromshot.py -l hosts.txt
+python3 headshot.py -l hosts.txt
 ```
 
