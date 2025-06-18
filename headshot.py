@@ -45,7 +45,7 @@ def take_screenshot(url):
 
 def main():
     parser = argparse.ArgumentParser(
-        description="📸 ChromShot - Fast CLI-based headless screenshot tool using Chromium"
+        description="📸 HeadShot - Fast CLI-based headless screenshot tool using Chromium"
     )
     parser.add_argument("-u", "--url", help="Single URL to capture")
     parser.add_argument("-l", "--list", help="File containing list of live URLs (http/https)")
