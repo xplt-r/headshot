@@ -20,6 +20,6 @@ python3 chromshot.py -u https://example.com
 ```
 List of URLs:
 ```
-python3 chromshot.py -l alive.txt
+python3 chromshot.py -l hosts.txt
 ```
 
